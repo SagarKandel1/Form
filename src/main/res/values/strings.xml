@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidDevelopment</string>
+    <string name="app_continue">Continue</string>
+    <string name="addForm">add form</string>
+    <string name="address">Address</string>
+    <string name="postcode">Postal Code</string>
+    <string name="enter_card_s_billing_address">Enter card\'s billing address:</string>
+    <string name="town_city">Town / City</string>
+    <string name="country">Country</string>
+</resources>
